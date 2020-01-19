@@ -1,0 +1,133 @@
+.header {
+    border: 2px solid #a2a2a6;
+    padding: 10px;
+    margin: 10px auto;
+   background-color: hsla(250, 70%, 50%, 0.3);
+   }
+   .header2 {
+    border: 2px solid #a2a2a6;
+    padding: 10px;
+    margin: 10px auto;
+    background-color: hsla(300, 60%, 70%, 0.5);
+   }
+   
+   .header3 {
+    border: 2px solid #a2a2a6;
+    padding: 10px;
+    margin: 10px auto;
+    background-color: hsla(400, 60%, 70%, 0.5);
+   }
+   
+   .container1 {
+     width: 32%;
+     background-color: #2d5dcc;
+     text-align: center;
+     color: white;
+     display: inline-block;
+     margin: 40px auto;
+     min-height: 100px;
+   }
+   .container2 {
+     width: 32%;
+     background-color: #d957d9;
+     text-align: center;
+     color: pink;
+     display: inline-block;
+     margin: 20px auto;
+     min-height: 100px;
+   }
+   .container3 {
+     width: 32%;
+     background-color: #4fe0b0;
+     text-align: center;
+     color: black;
+     display: inline-block;
+     margin: 40px auto;
+     min-height: 100px;
+   }
+   .container4 {
+     width: 32%;
+     background-color: #efd9ca;
+     text-align: center;
+     color: black;
+     display: inline-block;
+     margin: 10px auto;
+     min-height: 100px;
+     position: relative;
+     bottom: 40px;
+   }
+   .nono{
+     width: 45%;
+     display: inline-block;
+     
+   }
+    .lil-nono {
+     font-size: 20px;
+     text-decoration: underline;
+     font-family: 'Source Code Pro', monospace;
+   }
+   .mid-nono {
+     
+     font-family: 'Source Code Pro', monospace;
+     font-style: normal;
+   }
+   .large-nono {
+     
+     font-family: 'Source Code Pro', monospace;
+     font-weight: 700;
+   }
+   .largest-nono {
+     
+     font-family: 'Source Code Pro', monospace;
+     font-style: italic;
+   }
+   .ify{
+     width: 45%;
+     display: inline-block;
+     
+   }
+   .lil-ify {
+     font-size: 20px;
+     text-decoration: underline;
+     font-family: 'Nunito Sans', sans-serif;
+   }
+   .mid-ify {
+     
+     font-family: 'Nunito Sans', sans-serif;
+     font-style: normal;
+   }
+   .large-ify {
+     
+     font-family: 'Nunito Sans', sans-serif;
+     font-weight: 700;
+   }
+   .largest-ify {
+     
+     font-family: 'Nunito Sans', sans-serif;
+     font-style: italic;
+   }
+   .chi{
+     width: 45%;
+     display: inline-block;
+   }
+   .lil-chi {
+     font-size: 20px;
+     text-decoration: underline;
+     font-family: 'Poppins', serif;
+   }
+   .mid-chi {
+     
+     font-family: 'Poppins', serif;
+     font-style: normal;
+   }
+   .large-chi {
+     
+     font-family: 'Poppins', serif;
+     font-weight: 700;
+   }
+   .largest-chi {
+     
+     font-family: 'Poppins', serif;
+     font-style: italic;
+   }
+   
